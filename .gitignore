@@ -1,0 +1,8 @@
+# VSCode repo settings
+.vscode
+
+# BSON data files
+assets/*/*.bson
+
+# Compressed files resulted from the join of their correspondent splitted files
+assets/*/dump.tar.gz
